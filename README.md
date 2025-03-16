@@ -38,7 +38,3 @@ Deposit Money
 Withdraw Money
 Display Account Details
 Exit
-yaml
-Copy
-Edit
-
